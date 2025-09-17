@@ -64,12 +64,12 @@ The project utilizes a custom dataset for Indian licence plates, hosted on Robof
 ## Sample Results
 
 
-Image 1: Initial Detection Performance
+Image 1: 
 ![alt text](https://github.com/krishnaThoria/vehicle-number-plate-detection/blob/main/img2.jpg)
 
-(Replace https://i.imgur.com/your_first_image_grid.jpeg with a link to your first grid of images showing circles on plates)
-Image 2: YOLOv8 Predictions with Bounding Boxes (Page 1)
-![alt text](https://i.imgur.com/your_second_image_grid.jpeg)
+
+Image 2: 
+![alt text] (https://github.com/krishnaThoria/vehicle-number-plate-detection/blob/main/img1.jpg)
 
 (Replace https://i.imgur.com/your_second_image_grid.jpeg with a link to your second grid of images showing bounding boxes)
 Image 3: YOLOv8 Predictions with Bounding Boxes (Page 2)
