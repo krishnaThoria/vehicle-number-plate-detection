@@ -59,19 +59,13 @@ The project utilizes a custom dataset for Indian licence plates, hosted on Robof
 
 ## 🏃 Training the Model
 
-To train the YOLOv8 model on the downloaded dataset, run the training script.
-bash
-python ultralytics/yolo/v8/detect/train.py \
-    model=yolov8n.pt \
-    data=/content/Licence-Plate-Detection-using-YOLO-V8/License-Plate-Detector-2/data.yaml \
-    epochs=100
 
 
 Sample Results
 Below are examples of the model's performance on various images, showcasing its ability to detect licence plates in different orientations and lighting conditions.
 (Insert images from the output here. You can drag and drop them or link them if hosted elsewhere)
 Detection Examples
-(You would place the provided image grids here)
+
 Image 1: Initial Detection Performance
 ![alt text](https://i.imgur.com/your_first_image_grid.jpeg)
 
