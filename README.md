@@ -60,9 +60,31 @@ The project utilizes a custom dataset for Indian licence plates, hosted on Robof
 ## 🏃 Training the Model
 
 To train the YOLOv8 model on the downloaded dataset, run the training script.
-
-```bash
+bash
 python ultralytics/yolo/v8/detect/train.py \
     model=yolov8n.pt \
     data=/content/Licence-Plate-Detection-using-YOLO-V8/License-Plate-Detector-2/data.yaml \
     epochs=100
+
+
+Sample Results
+Below are examples of the model's performance on various images, showcasing its ability to detect licence plates in different orientations and lighting conditions.
+(Insert images from the output here. You can drag and drop them or link them if hosted elsewhere)
+Detection Examples
+(You would place the provided image grids here)
+Image 1: Initial Detection Performance
+![alt text](https://i.imgur.com/your_first_image_grid.jpeg)
+
+(Replace https://i.imgur.com/your_first_image_grid.jpeg with a link to your first grid of images showing circles on plates)
+Image 2: YOLOv8 Predictions with Bounding Boxes (Page 1)
+![alt text](https://i.imgur.com/your_second_image_grid.jpeg)
+
+(Replace https://i.imgur.com/your_second_image_grid.jpeg with a link to your second grid of images showing bounding boxes)
+Image 3: YOLOv8 Predictions with Bounding Boxes (Page 2)
+![alt text](https://i.imgur.com/your_third_image_grid.jpeg)
+
+(Replace https://i.imgur.com/your_third_image_grid.jpeg with a link to your third grid of images showing bounding boxes)
+Image 4: YOLOv8 Predictions with Bounding Boxes (Page 3)
+![alt text](https://i.imgur.com/your_fourth_image_grid.jpeg)
+
+(Replace https://i.imgur.com/your_fourth_image_grid.jpeg with a link to your fourth grid of images showing bounding boxes)
