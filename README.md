@@ -61,13 +61,11 @@ The project utilizes a custom dataset for Indian licence plates, hosted on Robof
 
 
 
-Sample Results
-Below are examples of the model's performance on various images, showcasing its ability to detect licence plates in different orientations and lighting conditions.
-(Insert images from the output here. You can drag and drop them or link them if hosted elsewhere)
-Detection Examples
+## Sample Results
+
 
 Image 1: Initial Detection Performance
-![alt text](https://i.imgur.com/your_first_image_grid.jpeg)
+![alt text]("C:\Users\KRISHNA\OneDrive - Gujarat University\Documents\Semester 7\project work\593dde90-43d3-4610-afaa-e9e5d88d49ae.jpg")
 
 (Replace https://i.imgur.com/your_first_image_grid.jpeg with a link to your first grid of images showing circles on plates)
 Image 2: YOLOv8 Predictions with Bounding Boxes (Page 1)
